@@ -37,8 +37,11 @@ F1-Score
 
 Model	ROC-AUC (CV Avg)	PR-AUC (CV Avg)
 Random Forest	0.9999	0.9999
+
 XGBoost	0.9999	0.9999
+
 Logistic Regression	0.9955	0.9958
+
 Final Selected Model: Random Forest Classifier
 
 Performance:
